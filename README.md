@@ -9,7 +9,7 @@ Fuzhang Li ,
 Yongcai Pan
 
 
-## Generating edge images
+## Generating edge map
 ```bash
 python generate.py --custompath /path/to/data --save_path ./results # --invert # generate inverse edge map
 ```
